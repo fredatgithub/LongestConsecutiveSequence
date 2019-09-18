@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29306.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestConsecutiveSequence", "LongestConsecutiveSequence\LongestConsecutiveSequence.csproj", "{B8AB3B0E-DB98-4E01-A3B9-054D4743483E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestConsecutiveSequence", "UnitTestConsecutiveSequence\UnitTestConsecutiveSequence.csproj", "{61C1F121-2373-4BF2-83E3-C106A06D7155}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolsLibrary", "ToolsLibrary\ToolsLibrary.csproj", "{3282C501-4DF4-407E-AB0D-61904711C6F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B8AB3B0E-DB98-4E01-A3B9-054D4743483E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8AB3B0E-DB98-4E01-A3B9-054D4743483E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8AB3B0E-DB98-4E01-A3B9-054D4743483E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61C1F121-2373-4BF2-83E3-C106A06D7155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61C1F121-2373-4BF2-83E3-C106A06D7155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61C1F121-2373-4BF2-83E3-C106A06D7155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61C1F121-2373-4BF2-83E3-C106A06D7155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3282C501-4DF4-407E-AB0D-61904711C6F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3282C501-4DF4-407E-AB0D-61904711C6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3282C501-4DF4-407E-AB0D-61904711C6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3282C501-4DF4-407E-AB0D-61904711C6F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
